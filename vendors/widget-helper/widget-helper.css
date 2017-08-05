@@ -1,0 +1,38 @@
+.widget-content .separator {
+	border: 1px #CCC solid;
+}
+
+.widget-content .widget-field-description {
+	display: block;
+	clear: both;
+}
+
+.widget-content .widget-field-heading {
+	text-align: center;
+	background-color: #f1f1f1;
+	margin-top: 5px;
+}
+
+.widget-content .widget-field-heading h4 {
+	padding: 5px 0;
+	margin-top: 0;
+}
+
+.widget-content .widget-field-color label {
+	float: left;
+	padding-top: 2px;
+	margin-right: 10px;
+}
+
+.widget-content .widget-field-radio .radio-item {
+	margin-right: 10px;
+}
+
+.widget-content .widget-field-image .field-image-preview {
+	margin-top: 5px;
+	clear: both;
+}
+
+.widget-content .widget-field-image .field-image-preview img {
+	width: 100%;
+}

@@ -1,0 +1,489 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: newsgreen\n"
+"POT-Creation-Date: 2017-07-10 02:03+0600\n"
+"PO-Revision-Date: 2017-07-10 02:03+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oooops!"
+msgstr ""
+
+#: 404.php:22
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:26
+msgid "Back to home"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/comment-helper.php:14
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comment-helper.php:18
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/comment-helper.php:26
+msgid "(Edit)"
+msgstr ""
+
+#: inc/comment-helper.php:47
+msgid "Name"
+msgstr ""
+
+#: inc/comment-helper.php:49
+msgid "Email"
+msgstr ""
+
+#: inc/comment-helper.php:51
+msgid "Website"
+msgstr ""
+
+#: inc/comment-helper.php:62
+msgid "Comment"
+msgstr ""
+
+#: inc/core.php:47
+msgid "Primary"
+msgstr ""
+
+#: inc/core.php:118
+msgid "Sidebar"
+msgstr ""
+
+#: inc/core.php:120 inc/core.php:130
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/core.php:128
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-customize.php:74
+msgid "Lite Theme Options"
+msgstr ""
+
+#: inc/customizer/class-customize.php:89
+msgid "Show Social Buttons on Header"
+msgstr ""
+
+#: inc/customizer/class-customize.php:106
+msgid "Show Social Buttons on Footer"
+msgstr ""
+
+#: inc/customizer/class-customize.php:126
+msgid "Blog List Content Type"
+msgstr ""
+
+#: inc/customizer/class-customize.php:131
+msgid "excerpt"
+msgstr ""
+
+#: inc/customizer/class-customize.php:132
+msgid "full post"
+msgstr ""
+
+#: inc/customizer/class-customize.php:144
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:147
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:150
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:153
+msgid "Google-plus URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:156
+msgid "pinterest URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:159
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:162
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:165
+msgid "Reddit URL"
+msgstr ""
+
+#: inc/customizer/class-customize.php:173
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-customize.php:207
+msgid "News Green Pro"
+msgstr ""
+
+#: inc/customizer/class-customize.php:208
+msgid "Go Pro"
+msgstr ""
+
+#: inc/override.php:24
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: inc/override.php:24
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/premium-screen/index.php:12
+msgid "News Green"
+msgstr ""
+
+#: inc/premium-screen/index.php:13
+msgid "PRO"
+msgstr ""
+
+#: inc/premium-screen/index.php:13
+msgid "1.0"
+msgstr ""
+
+#: inc/premium-screen/index.php:14
+msgid "Buy Now - $39"
+msgstr ""
+
+#: inc/premium-screen/index.php:15
+msgid "Live Demo"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/premium-screen/index.php:23
+msgid "newsgreen"
+msgstr ""
+
+#: inc/premium-screen/index.php:23
+msgid "Wordpress Theme"
+msgstr ""
+
+#: inc/premium-screen/index.php:24
+msgid "Free Version"
+msgstr ""
+
+#: inc/premium-screen/index.php:25
+msgid "Premium Version"
+msgstr ""
+
+#: inc/premium-screen/index.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: inc/premium-screen/index.php:38
+msgid "Blog Page Design"
+msgstr ""
+
+#: inc/premium-screen/index.php:44
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/premium-screen/index.php:50
+msgid "Unlimited color "
+msgstr ""
+
+#: inc/premium-screen/index.php:55
+msgid "Custom Header "
+msgstr ""
+
+#: inc/premium-screen/index.php:61
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: inc/premium-screen/index.php:66
+msgid "Custom Widgets 7+"
+msgstr ""
+
+#: inc/premium-screen/index.php:71
+msgid "Post Slider Slider plugins"
+msgstr ""
+
+#: inc/premium-screen/index.php:76
+msgid "Popular posts Counter And Widgets"
+msgstr ""
+
+#: inc/premium-screen/index.php:83
+msgid "Advance Theme Options"
+msgstr ""
+
+#: inc/premium-screen/index.php:89
+msgid "Site Origin Page Builder"
+msgstr ""
+
+#: inc/premium-screen/index.php:96
+msgid "Premium Ajax Scroll"
+msgstr ""
+
+#: inc/premium-screen/index.php:102
+msgid "Premium Zoom"
+msgstr ""
+
+#: inc/premium-screen/index.php:107
+msgid "Support"
+msgstr ""
+
+#: inc/premium-screen/index.php:108
+msgid "wordpress forum"
+msgstr ""
+
+#: inc/premium-screen/index.php:109
+msgid "Skype, Ticket & Teamvier"
+msgstr ""
+
+#: inc/pro.php:9 inc/pro.php:11
+msgid "NewsGreen Premium"
+msgstr ""
+
+#: inc/template-functions.php:27
+msgid "No Image"
+msgstr ""
+
+#: inc/template-functions.php:30
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/template-functions.php:31
+msgid "Medium"
+msgstr ""
+
+#: inc/template-functions.php:32
+msgid "Large"
+msgstr ""
+
+#: inc/template-functions.php:33
+msgid "Full (original)"
+msgstr ""
+
+#: inc/theme-hooks.php:320
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/theme-hooks.php:320
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/theme-hooks.php:323
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: inc/theme-hooks.php:323
+msgid "https://edatastyle.com"
+msgstr ""
+
+#: inc/theme-hooks.php:323
+msgid "eDataStyle"
+msgstr ""
+
+#: inc/wigets.php:52
+msgid "NG: Recent Posts Extended"
+msgstr ""
+
+#: inc/wigets.php:56
+msgid "Recent posts extended widget"
+msgstr ""
+
+#: inc/wigets.php:62
+msgid "Title:"
+msgstr ""
+
+#: inc/wigets.php:67 inc/wigets.php:209
+msgid "Select Category:"
+msgstr ""
+
+#: inc/wigets.php:69 inc/wigets.php:211
+msgid "All Categories"
+msgstr ""
+
+#: inc/wigets.php:72
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/wigets.php:79
+msgid "Image Width:"
+msgstr ""
+
+#: inc/wigets.php:81
+msgid "px"
+msgstr ""
+
+#: inc/wigets.php:87
+msgid "Disable Thumbnail"
+msgstr ""
+
+#: inc/wigets.php:157
+msgid "Read More "
+msgstr ""
+
+#: inc/wigets.php:200
+msgid "NG: Featured News Block"
+msgstr ""
+
+#: inc/wigets.php:203
+msgid "News Featured News Widget"
+msgstr ""
+
+#: index.php:57 search.php:48
+msgid "Previous"
+msgstr ""
+
+#: index.php:58 search.php:49
+msgid "Next"
+msgstr ""
+
+#: index.php:59 search.php:50
+msgid "&nbsp;"
+msgstr ""
+
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-search.php:48
+#: template-parts/content.php:55
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:38
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-search.php:58 template-parts/content.php:65
+msgid "Continue Reading"
+msgstr ""
+
+#: template-parts/single/content.php:58
+msgid ", "
+msgstr ""
+
+#: template-parts/single/content.php:61
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: template-parts/single/content.php:69
+msgid "Prev Article"
+msgstr ""
+
+#: template-parts/single/content.php:70
+msgid "Next Article"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:108
+msgid "Upload"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:108
+msgid "Select Image"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:108
+msgid "Choose Image"
+msgstr ""
+
+#: vendors/widget-helper/class-widget-helper.php:110
+msgid "Remove"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://edatastyle.com/product/newsgreen/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"News Green is a modern WordPress Template was created especially for "
+"Newspaper & Magazine online. NewsGreen comes with many features for some "
+"popular topics like: sport, fashion, technology, travel, video section? The "
+"News template is excellent for a news, magazine, publishing or review site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "proscriptsell"
+msgstr ""
